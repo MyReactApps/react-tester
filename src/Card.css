@@ -1,0 +1,14 @@
+.title{
+    z-index: 20;
+    margin-top: -40px;
+    color: white;
+}
+.image{
+    position: relative;
+    z-index: -20;
+}
+p{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
