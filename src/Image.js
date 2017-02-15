@@ -10,7 +10,7 @@ let Image = function statelessFunctionComponentClass(props) {
   };
 
   return (
-    <img  src={require(source)} style={style} alt="img" />
+    <img  src={require(`${source}`)} style={style} alt="img" />
   );
 };
 
